@@ -8,7 +8,7 @@ I used this project to study and try out new things, please give me a feedback t
 
 The base for this project is developed in course "Programador Full Stack JavaScript em 8 semanas" of OneBitCode.
 
-The intention for the checkbox on navbar is make a toogle for darkmode, this is deployed soon.
+The intention for the checkbox on navbar is make a toogle for darkmode, this toogle and jobs page is deployed soon.
 
 [🔗 Click here to access](https://rainiryoshi.github.io/rainir-rangel-curriculum/)
 
