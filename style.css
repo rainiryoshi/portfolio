@@ -1,0 +1,37 @@
+body {
+    background-image: url(./asstes/bg.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.message-header {
+    background-color: transparent;
+    color: black;
+    border-bottom: 0.3px solid lightgray;
+}
+
+.message {
+    background-color: transparent;
+    border: 0.3px solid lightgray;
+}
+
+.media-content span {
+    margin-bottom: 2px;
+}
+
+.content img {
+    padding-top: 8px;
+}
+
+.tag:hover {
+    transform: scale(1.03);
+}
+
+.message figure:hover {
+    transform: scale(1.1);
+}
+
+.navbar figure:hover {
+    transform: scale(1.07);
+}
